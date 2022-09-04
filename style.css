@@ -1,0 +1,125 @@
+* {
+    font-family: consolas;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(23, 23, 23);
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #fff;
+    font-size: 24px;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #fff;
+}
+
+section {
+    width: 100vw;
+    height: 80vh;
+    overflow-y: scroll;
+    padding: 30px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    height: 20vh;
+    width: 100vw;
+}
+
+.header-titles {
+    margin-left: 30px;
+}
+
+.comment {
+    color: #888;
+}
+
+.reservedword {
+    color: rgb(0, 255, 187);
+    font-style: italic;
+}
+
+.controlstructure {
+    color: rgb(255, 81, 0);
+}
+
+.variablename {
+    color: rgb(170, 230, 6);
+}
+
+.literal {
+    color: rgb(217, 0, 255);
+}
+
+.binary {
+    color: rgb(0, 255, 94);
+}
+
+.octal {
+    color: rgb(98, 173, 239);
+}
+
+.hexadecimal {
+    color: rgb(255, 5, 172);
+}
+
+.bool {
+    color: rgb(192, 122, 245);
+}
+
+.int {
+    color: rgb(110, 0, 245);
+}
+
+.float {
+    color: rgb(255, 0, 166);
+}
+
+.operators {
+    color: rgb(238, 255, 0);
+}
+
+.closingops {
+    color: #555;
+}
+
+.array {
+    color: rgb(255, 71, 101);
+}
+
+.key {
+    color: rgb(255, 153, 0);
+}
+
+.templatestring {
+    color: rgb(92, 167, 0);
+}
+
+.this {
+    color: rgb(186, 186, 186);
+}
+
+.string {
+    color: rgb(255, 170, 80);
+}
+
+.identifier {
+    color: #fff;
+}
+
+.symbols {
+    color: #555;
+}
