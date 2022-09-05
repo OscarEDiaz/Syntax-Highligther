@@ -8,7 +8,7 @@ The program reads data from **.js** files located in the *output* folder. This f
 
 To generate files use the following code:
 ````
-Generator.generate(quantity)~~
+Generator.generate(quantity)
 ````
 This function also removes all the previous files and adds new ones.
 
