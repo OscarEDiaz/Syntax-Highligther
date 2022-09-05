@@ -1,4 +1,6 @@
 # Syntax-Highligther
+### Made by Oscar Emiliano Ramírez Díaz and Maria Fernanda Ramírez Romero
+
 Syntax highlighther made with Elixir (functional programming) and Erlang (regular expressions).
 
 ## How to use it
