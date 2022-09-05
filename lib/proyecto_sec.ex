@@ -39,7 +39,7 @@ defmodule Secuencial do
         <meta charset=\"UTF-8\">
         <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">
         <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
-        <link rel=\"stylesheet\" href=\"style.css\">
+        <link rel=\"stylesheet\" href=\"../style.css\">
         <title>LEEX</title>
     </head>
     <body>
@@ -50,8 +50,8 @@ defmodule Secuencial do
         <h2>Maria Fernanda Ramírez Romero A01735334</h2>
       </div>
       <div>
-        <img src=\"elixir-icon.png\" style=\"width: 40px; margin-right: 10px;\">
-        <img src=\"js-logo.png\" style=\"width: 40px; margin-right: 30px;\">
+        <img src=\"../elixir-icon.png\" style=\"width: 40px; margin-right: 10px;\">
+        <img src=\"../js-logo.png\" style=\"width: 40px; margin-right: 30px;\">
       </div>
     </div>
     <section>

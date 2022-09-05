@@ -111,6 +111,7 @@ defmodule Generator do
     File.write!("files/nested files/test_nested.js", genData())
     File.write!("files/nested files/nested nested files/test_nested_nested.js", genData())
 
+
     for x <- 1..quantity do
       File.write!("files/index#{x}.js", genData())
     end
